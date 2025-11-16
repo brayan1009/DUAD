@@ -65,34 +65,8 @@ def write_video_games_to_csv(file_path):
         print(f'Games written to {file_path} successfully.')
     except FileNotFoundError as error:
         print(f'File was not found: {error}')
-'''
-2. Lea sobre el resto de métodos del módulo `csv` [aqui](https://docs.python.org/es/3/library/csv.html) y cree una version alternativa del ejercicio de arriba que guarde el archivo separado por *tabulaciones* en vez de por *comas*.
-    1. Ejemplo de archivo final:
-        
-        ```
-        nombre	genero	desarrollador	clasificacion
-        Grand Theft Auto IV	Accion	Rockstar Games	M
-        The Elder Scrolls IV: Oblivion	RPG	Bethesda	M
-        Tony Hawk's Pro Skater 2	Deportes	Activision	T
-        ```
-
-'''
-
-def write_video_games_to_csv_v2(file_path):
-    games_to_add = get_game_data()
-    try:
-        with open(file_path, mode='w',encoding='utf-8') as csv_file:
-            writer = csv.DictWriter(csv_file, fieldnames=file_headers, dialect='excel-tab')
-            writer.writeheader()
-            writer.writerows(games_to_add)
-        print(f'Games written to {file_path} successfully.')
-    except FileNotFoundError as error:
-        print(f'File was not found: {error}')
-
-
 
 '''
 Running the functions
 '''
 write_video_games_to_csv('files/video_games.csv')
-write_video_games_to_csv_v2('files/video_games_tab.csv')

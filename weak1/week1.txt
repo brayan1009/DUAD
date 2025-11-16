@@ -1,0 +1,98 @@
+1. Crear un algoritmo para buscar un video en Youtube
+    1. INICIO
+    2. Tengo internet en casa o datos moviles para verlo?
+        1. Tengo Laptop, smartphone, tablet o smart TV para verlo?:
+            1. Ir a buscar el dispositivo
+        2. Sino tengo:
+            1. Buscar algun familiar o conocido que me preste o venda el dispositivo
+        3. Entrar al sitio web o aplicacion de Youtube.
+        4. Si se lo que quiero ver:
+            1. Ir al buscador y escribir el canal o tematica que quiero ver
+        5. Sino se lo quiero ver:
+            1. Ver las recomendaciones de Youtube hasta encontrar algo para ver
+        6. Si quiero comer algo mientras veo el video?:
+            1. Tengo algo para comer?:
+                1. Tomar lo que quiero comer 
+            2. Sino, tengo para comprar algo?:
+                1. mandar a pedir una pizza
+        7. Sino tengo para comprar:
+            1. Ir por un vaso con agua 😋
+        8. Ponerse comodo
+        9. Reproducir el video
+    3. Sino tengo internet:
+        1. Leer un libro.
+    4. FIN
+
+2. Crear un algoritmo que describa mi rutina diaria
+    1. INICIO
+        1. Levantarme
+        2. Buscar en la refri el desayuno
+        3. Hay huevos en la refri?
+            1. Tomar 2
+        4. Sino hay huevos:
+            1. Ir a comprar huevos
+        5. Buscar pan cuadrado para tostadas
+        6. Tostar el pan
+        7. Cocinar los huevos
+        8. Servir los 2 huevos con el pan
+        9. Comer el desayuno
+        10. Irme al escritorio
+        11. Empezar a trabajar
+        12. Mientras no sea la hora de salida:
+            1. Hay backlog de tareas y no tengo tareas pendientes?
+                1. Tomar una tarea nueva
+            2. Tengo tarea para desarrollar?
+                1. Desarrollar la tarea
+            3. Es hora de almorzar?
+                1. Tomar almuerzo de 1h
+            4. Sino es hora de almorzar:
+                1. Seguimos trabajando
+        13. Apagar compu del trabajo
+        14. Tengo carro o dinero para el uber para ir al GYM?
+            1. Viajar al Gym
+            2. Entrenar
+            3. Viajar de regreso a mi casa
+        15. Sino tengo:
+            1. Entrenamos en casa
+        16. Tomar una ducha
+        17. Preparar Cena
+        18. Acostarme
+    2. FIN
+
+3. Cree un algoritmo como preparar una fiesta sorpresa para un amigo o familiar. Considere si la persona está en casa o no, si los invitados ya llegaron o no, qué hacer mientras esperan, y cómo finaliza la fiesta
+    1. INICIO
+    2. Crear lista de invitados
+    3. Crear un grupo de Whatsapp para los invitados
+    4. Mientras algun miembro no este en el grupo:
+        1. Agregar el miembro al grupo
+    5. Definir la hora de la fiesta
+    6. Crear lista de bebidas y snacks para la fiesta
+    7. Si la persona esta en la casa:
+        1. Pedirle a alguien que lo distraiga y lo lleve fuera de la casa por varias horas
+    8. Sino esta en la casa:
+        1. Pedirle a alguien que lo mantengra distraido hasta la hora de la fiesta
+    9. Ir al supermercado para comprar lo de la lista
+    10. Tomar un carrito del super
+    11. Mientras falte algo de la lista:
+        1. Ir a buscarlo en el super y ponerlo en el carrito
+    12. Ir a las cajas y pagar las cosas
+    13. Viajar de regreso a la casa
+    14. Preparar las mesas y comida
+    15. Si algo hizo falta o falto de incluir en lista:
+        1. Pedir a algun invitado que lo traiga
+    16. Mientras falte algun invitado por llegar:
+        1. Recibir al que va llegango
+        2. Pedir ayuda en la decoracion a los invitados
+        3. Vigilar que no llegue el festejado anticipadamente
+        4. Si llega anticipadamente:
+            1. Pedir a algun invitado que frecuentemente visita la casa que salga distraerselo o llevarselo
+    17. Apagar las luces para recibir al festejado
+    18. Sorprenderlo
+    19. Sentarlo frente al queque
+    20. Cantarle compleanos
+    21. Servir la comida
+    22. Contar historias con el con los invitados y palabras de personas cercanas
+    23. Despachar a los invitados
+    24. Limpiar la casa y lavar los platos
+    25. Irse a dormir
+    26. FIN
