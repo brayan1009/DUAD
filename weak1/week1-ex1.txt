@@ -1,0 +1,24 @@
+1. Crear un algoritmo para buscar un video en Youtube
+    1. INICIO
+    2. Tengo internet en casa o datos moviles para verlo?
+        1. Tengo Laptop, smartphone, tablet o smart TV para verlo?:
+            1. Ir a buscar el dispositivo
+        2. Sino tengo:
+            1. Buscar algun familiar o conocido que me preste o venda el dispositivo
+        3. Entrar al sitio web o aplicacion de Youtube.
+        4. Si se lo que quiero ver:
+            1. Ir al buscador y escribir el canal o tematica que quiero ver
+        5. Sino se lo quiero ver:
+            1. Ver las recomendaciones de Youtube hasta encontrar algo para ver
+        6. Si quiero comer algo mientras veo el video?:
+            1. Tengo algo para comer?:
+                1. Tomar lo que quiero comer 
+            2. Sino, tengo para comprar algo?:
+                1. mandar a pedir una pizza
+        7. Sino tengo para comprar:
+            1. Ir por un vaso con agua 😋
+        8. Ponerse comodo
+        9. Reproducir el video
+    3. Sino tengo internet:
+        1. Leer un libro.
+    4. FIN

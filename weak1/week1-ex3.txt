@@ -1,0 +1,37 @@
+3. Cree un algoritmo como preparar una fiesta sorpresa para un amigo o familiar. Considere si la persona está en casa o no, si los invitados ya llegaron o no, qué hacer mientras esperan, y cómo finaliza la fiesta
+    1. INICIO
+    2. Crear lista de invitados
+    3. Crear un grupo de Whatsapp para los invitados
+    4. Mientras algun miembro no este en el grupo:
+        1. Agregar el miembro al grupo
+    5. Definir la hora de la fiesta
+    6. Crear lista de bebidas y snacks para la fiesta
+    7. Si la persona esta en la casa:
+        1. Pedirle a alguien que lo distraiga y lo lleve fuera de la casa por varias horas
+    8. Sino esta en la casa:
+        1. Pedirle a alguien que lo mantengra distraido hasta la hora de la fiesta
+    9. Ir al supermercado para comprar lo de la lista
+    10. Tomar un carrito del super
+    11. Mientras falte algo de la lista:
+        1. Ir a buscarlo en el super y ponerlo en el carrito
+    12. Ir a las cajas y pagar las cosas
+    13. Viajar de regreso a la casa
+    14. Preparar las mesas y comida
+    15. Si algo hizo falta o falto de incluir en lista:
+        1. Pedir a algun invitado que lo traiga
+    16. Mientras falte algun invitado por llegar:
+        1. Recibir al que va llegango
+        2. Pedir ayuda en la decoracion a los invitados
+        3. Vigilar que no llegue el festejado anticipadamente
+        4. Si llega anticipadamente:
+            1. Pedir a algun invitado que frecuentemente visita la casa que salga distraerselo o llevarselo
+    17. Apagar las luces para recibir al festejado
+    18. Sorprenderlo
+    19. Sentarlo frente al queque
+    20. Cantarle compleanos
+    21. Servir la comida
+    22. Contar historias con el con los invitados y palabras de personas cercanas
+    23. Despachar a los invitados
+    24. Limpiar la casa y lavar los platos
+    25. Irse a dormir
+    26. FIN
