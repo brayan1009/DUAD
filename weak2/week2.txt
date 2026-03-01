@@ -1,0 +1,83 @@
+1. Cree un pseudocódigo que le pida un `precio de producto` al usuario, calcule su descuento y muestre el precio final tomando en cuenta que:
+    1. Si el precio es menor a 100, el descuento es del 2%.
+    2. Si el precio es mayor o igual a 100, el descuento es del 10%.
+    3. *Ejemplos*:
+        1. 120 → 108
+        2. 40 → 39.2
+    
+    Respuesta:
+    
+    INICIO
+    
+    1.Definir `precio_producto` 
+    
+    2.Definir `descuento` 
+    
+    3.Definir `precio_final`
+    
+    1. Mostrar “Ingrese el precio del producto”
+    2. Pedir  `precio_producto` 
+    3. Si(`precio_producto`  < 100)
+        1. `descuento` = `precio_producto` * 0.02
+    4. Sino
+        1. Si(`precio_producto`  ≥ 100)
+            1. `descuento` = `precio_producto` * 0.10
+        2. FinSi
+    5. FinSI
+    6. `precio_final`  = `precio_producto` - `descuento` 
+    7. Mostrar “Precio final del producto”
+    8. Mostrar `precio_final` 
+    
+    FIN
+
+2. Cree un pseudocódigo que le pida un `tiempo en segundos` al usuario y calcule si es menor o mayor a 10 minutos. Si es menor, muestre cuantos segundos faltarían para llegar a 10 minutos. Si es mayor, muestre “*Mayor*”. Si es exactamente igual, muestre “*Igual*”.
+    1. *Ejemplos*:
+        1. 1040 → Mayor
+        2. 140 → 460
+        3. 600 → Igual
+        4. 599 → 1
+    
+    Respuesta:
+    
+    INICIO
+    
+    1. Definir `DiezMinutosEnSegundo` = 600
+    2. Definir `tiempoEnSegundos` 
+    3. Mostrar “Ingrese la cantidad de segundos”
+    4. Pedir `tiempoEnSegundos` 
+    5. Si(`tiempoEnSegundos` == `DiezMinutosEnSegundo` )
+        1. Mostrar “Igual”
+    6. Sino:
+        1. SI(`tiempoEnSegundos`  < `DiezMinutosEnSegundo` )
+            1. Mostrar `DiezMinutosEnSegundo` -`tiempoEnSegundos`  
+        2. Sino
+            1. Si(`tiempoEnSegundos`  > `DiezMinutosEnSegundo`)
+                1. Mostrar “Mayor”
+            2. FinSi
+        3. FinSi
+    7. FinSI
+    
+    FIN
+
+
+3. Cree un algoritmo que le pida un numero al usuario, y realice una suma de cada numero del 1 hasta ese número ingresado. Luego muestre el resultado de la suma.
+    1. 5 → 15 (1 + 2 + 3 + 4 + 5)
+    2. 3 → 6 (1 + 2 + 3)
+    3. 12 → 78 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12)
+
+INICIO
+
+1. Definir `contador`
+2. Definir `sumatoria`
+3. Mostrar “Ingrese el numero escogido”
+4. Pedir `digitoUsuario`
+5. `contador` = 1
+6. `sumatoria` = 0
+7. Mientras que (`contador` ≤ `digitoUsuario`) hacer:
+    1. `sumatoria` += `contador` 
+    2. `contador`  += 1
+8. FinMientras
+9. Mostrar “Resultado de la suma”
+10. Mostrar `sumatoria` 
+
+FIN

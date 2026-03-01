@@ -1,0 +1,35 @@
+2. Crear un algoritmo que describa mi rutina diaria
+    1. INICIO
+        1. Levantarme
+        2. Buscar en la refri el desayuno
+        3. Hay huevos en la refri?
+            1. Tomar 2
+        4. Sino hay huevos:
+            1. Ir a comprar huevos
+        5. Buscar pan cuadrado para tostadas
+        6. Tostar el pan
+        7. Cocinar los huevos
+        8. Servir los 2 huevos con el pan
+        9. Comer el desayuno
+        10. Irme al escritorio
+        11. Empezar a trabajar
+        12. Mientras no sea la hora de salida:
+            1. Hay backlog de tareas y no tengo tareas pendientes?
+                1. Tomar una tarea nueva
+            2. Tengo tarea para desarrollar?
+                1. Desarrollar la tarea
+            3. Es hora de almorzar?
+                1. Tomar almuerzo de 1h
+            4. Sino es hora de almorzar:
+                1. Seguimos trabajando
+        13. Apagar compu del trabajo
+        14. Tengo carro o dinero para el uber para ir al GYM?
+            1. Viajar al Gym
+            2. Entrenar
+            3. Viajar de regreso a mi casa
+        15. Sino tengo:
+            1. Entrenamos en casa
+        16. Tomar una ducha
+        17. Preparar Cena
+        18. Acostarme
+    2. FIN
